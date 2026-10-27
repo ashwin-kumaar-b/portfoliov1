@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dr-screening",
+    "title": "Diabetic Retinopathy AI",
+    "description": "End-to-end clinical AI screening retinal fundus images and grading severity in <2s with Grad-CAM explainability, React 19 UI, ONNX-optimized FastAPI, and clinical PDF reports.",
+    "tags": ["Medical AI", "React 19", "FastAPI", "ONNX", "Grad-CAM"],
+    "link": "https://drdetection-delta.vercel.app/"
+  },
+  {
+    "id": "deviceguardian",
+    "title": "DeviceGuardian AI",
+    "description": "PHM/telemetry system predicting device hardware failure (remaining useful life) using XGBoost. 1st place at a hackathon.",
+    "tags": ["XGBoost", "Predictive Maintenance", "Telemetry"],
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7484611007789674496/"
+  },
+  {
+    "id": "jeevalink",
+    "title": "JeevaLink",
+    "description": "Off-grid peer-to-peer mesh emergency communication app for disaster response using Wi-Fi Direct and Bluetooth.",
+    "tags": ["Wi-Fi Direct", "Bluetooth", "Disaster Response"],
+    "link": "#"
+  },
+  {
+    "id": "gsi",
+    "title": "GSI (Grievance Signal Intelligence)",
+    "description": "Smart-cities / urban governance project built for a national-level NIT hackathon.",
+    "tags": ["Smart Cities", "NLP", "Urban Governance"],
+    "link": "#"
+  },
+  {
+    "id": "safechit",
+    "title": "SafeChit",
+    "description": "Fintech hackathon project — shortlisted.",
+    "tags": ["FinTech", "Security"],
+    "link": "#"
+  }
+]
