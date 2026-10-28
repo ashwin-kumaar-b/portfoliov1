@@ -22,10 +22,10 @@
   },
   {
     "id": "med-reminder",
-    "title": "MedRemind & Diet AI",
+    "title": "Medication Reminder",
     "description": "Cross-platform healthcare web and mobile app enabling precise medication scheduling, automated dietary/food synergy suggestions for recovery, and real-time drug interaction checks.",
     "tags": ["Healthcare", "Drug Interactions", "Dietary AI", "Web & Mobile"],
-    "link": "https://github.com/ashwin-kumaar-b"
+    "link": "https://github.com/ashwin-kumaar-b/medication_reminder"
   },
   {
     "id": "safechit",

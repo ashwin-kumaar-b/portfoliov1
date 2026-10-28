@@ -215,7 +215,7 @@ function renderStaticContent(staticEl) {
           </div>
         </div>
         <div class="classic-hack-item finalist">
-          <div class="classic-hack-badge">🎖️ Shortlisted Finalist (Top 1% of 3,000+)</div>
+          <div class="classic-hack-badge">🎖️ Shortlisted Finalist (Out of 3,000+)</div>
           <div class="classic-hack-main">
             <h3>CSI ORIGIN 2026 — Offline Hackathon</h3>
             <p class="classic-hack-org">Computer Society of India · VIT Chennai</p>
