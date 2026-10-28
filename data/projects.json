@@ -7,6 +7,13 @@
     "link": "https://drdetection-delta.vercel.app/"
   },
   {
+    "id": "jeevalink",
+    "title": "JeevaLink (iTantra)",
+    "description": "100% offline, zero-cloud emergency mesh transceiver for SIH 2026. Transcribes Indic voice to ~0.4 KB packets hopped over Wi-Fi Direct/BLE mesh with 360° Haversine radar triage.",
+    "tags": ["Flutter", "Sherpa-ONNX", "Wi-Fi Direct", "BLE Mesh", "SIH 2026"],
+    "link": "https://github.com/ashwin-kumaar-b/lifelink"
+  },
+  {
     "id": "deviceguardian",
     "title": "DeviceGuardian AI",
     "description": "PHM/telemetry system predicting device hardware failure (remaining useful life) using XGBoost. 1st place at a hackathon.",
@@ -14,24 +21,17 @@
     "link": "https://www.linkedin.com/feed/update/urn:li:activity:7484611007789674496/"
   },
   {
-    "id": "jeevalink",
-    "title": "JeevaLink",
-    "description": "Off-grid peer-to-peer mesh emergency communication app for disaster response using Wi-Fi Direct and Bluetooth.",
-    "tags": ["Wi-Fi Direct", "Bluetooth", "Disaster Response"],
-    "link": "#"
-  },
-  {
-    "id": "gsi",
-    "title": "GSI (Grievance Signal Intelligence)",
-    "description": "Smart-cities / urban governance project built for a national-level NIT hackathon.",
-    "tags": ["Smart Cities", "NLP", "Urban Governance"],
-    "link": "#"
+    "id": "med-reminder",
+    "title": "MedRemind & Diet AI",
+    "description": "Cross-platform healthcare web and mobile app enabling precise medication scheduling, automated dietary/food synergy suggestions for recovery, and real-time drug interaction checks.",
+    "tags": ["Healthcare", "Drug Interactions", "Dietary AI", "Web & Mobile"],
+    "link": "https://github.com/ashwin-kumaar-b"
   },
   {
     "id": "safechit",
     "title": "SafeChit",
     "description": "Fintech hackathon project — shortlisted.",
     "tags": ["FinTech", "Security"],
-    "link": "#"
+    "link": "https://github.com/ashwin-kumaar-b"
   }
 ]

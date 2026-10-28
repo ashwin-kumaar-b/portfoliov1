@@ -130,18 +130,18 @@ function renderStaticContent(staticEl) {
         </div>
         <div class="classic-domain-card">
           <div class="classic-card-icon">📡</div>
-          <h3>Disaster Response &amp; Mesh Comms</h3>
-          <p>Off-grid peer-to-peer mobile communications built for disaster zones utilizing Wi-Fi Direct and Bluetooth mesh networking without cellular dependencies.</p>
+          <h3>Zero-Cloud Neural Mesh Comms</h3>
+          <p>100% offline, zero-cloud emergency communication. Transcribes Indic voice to ~0.4 KB packets via on-device INT8 neural models, hopped over Wi-Fi Direct and BLE mesh with 360° Haversine radar triage.</p>
           <div class="classic-card-tags">
-            <span>Wi-Fi Direct</span><span>Bluetooth Mesh</span><span>P2P Networking</span>
+            <span>Sherpa-ONNX</span><span>Wi-Fi Direct</span><span>Bluetooth Mesh</span><span>SIH 2026</span>
           </div>
         </div>
         <div class="classic-domain-card">
-          <div class="classic-card-icon">🏙️</div>
-          <h3>Smart Cities &amp; Urban Governance</h3>
-          <p>Intelligent grievance routing and urban signal analytics leveraging NLP and distributed reporting systems built for national-level hackathons.</p>
+          <div class="classic-card-icon">💊</div>
+          <h3>Medication &amp; Dietary Intelligence</h3>
+          <p>Smart healthcare platform providing precision medication scheduling, automated food and nutritional synergy suggestions to accelerate recovery, and real-time drug interaction safety checks.</p>
           <div class="classic-card-tags">
-            <span>NLP</span><span>Smart Cities</span><span>Urban Telemetry</span>
+            <span>Healthcare</span><span>Drug Interactions</span><span>Dietary AI</span><span>Web &amp; Mobile</span>
           </div>
         </div>
       </div>

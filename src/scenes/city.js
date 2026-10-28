@@ -619,7 +619,7 @@ export function initCity() {
       progress: 0.58,
       className: 'city-callout-3',
       title: 'Domains',
-      text: 'Clinical AI screening, predictive maintenance, disaster-response comms, smart cities',
+      text: 'Clinical AI, medication & dietary intelligence, zero-cloud mesh comms, predictive maintenance',
       color: '#FFD400',
       preferredAnchorIdx: 9,
       duration: 0.28,

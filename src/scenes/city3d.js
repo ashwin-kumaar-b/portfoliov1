@@ -571,7 +571,7 @@ export function initCity3D() {
       progress: 0.58,
       className: 'city-callout-3',
       title: 'Domains',
-      text: 'Clinical AI screening, predictive maintenance, disaster-response comms, smart cities',
+      text: 'Clinical AI, medication & dietary intelligence, zero-cloud mesh comms, predictive maintenance',
       color: '#FFD400',
       anchor3D: anchor3DPositions[2],
       duration: 0.28,
